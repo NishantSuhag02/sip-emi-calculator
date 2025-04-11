@@ -68,7 +68,7 @@ n = Total Months
 
 1. Clone the repo:
 
-    git clone https://github.com/yourusername/sip-emi-calculator.git
+    git clone [https://github.com/yourusername/sip-emi-calculator.git](https://github.com/NishantSuhag02/sip-emi-calculator)
     cd sip-emi-calculator
 
 2. Install dependencies:
@@ -83,7 +83,7 @@ n = Total Months
 
 ## 📸 Screenshots
 
-_Add screenshots of your app here_
+app-screenshot.png
 
 ---
 
