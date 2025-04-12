@@ -19,6 +19,12 @@ This project is a simple, interactive **SIP and EMI calculator** built using **P
 
 ---
 
+## 📸 Screenshots
+
+![Homepage](static/app-screenshot.png)
+
+---
+
 ## 📦 Folder Structure
 
 ```
@@ -41,17 +47,17 @@ SIP-EMI-Calculator/
 
 EMI = [P x R x (1+R)^N] / [(1+R)^N – 1]
 Where:
-P = Principal
-R = Monthly Interest Rate
-N = Number of Monthly Installments
+P = Principal \n
+R = Monthly Interest Rate \n
+N = Number of Monthly Installments \n
 
 ### SIP Future Value Formula
 
 FV = P × [ (1 + r)^n – 1 ] × (1 + r) / r
 Where:
-P = Monthly Investment
-r = Monthly Return Rate
-n = Total Months
+P = Monthly Investment \n
+r = Monthly Return Rate \n
+n = Total Months \n
 
 ---
 
@@ -68,7 +74,7 @@ n = Total Months
 
 1. Clone the repo:
 
-    git clone https://github.com/NishantSuhag02/sip-emi-calculator.git
+    git clone https://github.com/NishantSuhag02/sip-emi-calculator.git \n
     cd sip-emi-calculator
 
 2. Install dependencies:
@@ -78,12 +84,6 @@ n = Total Months
 3. Run the app:
 
     streamlit run app.py
-
----
-
-## 📸 Screenshots
-
-![Homepage](static/app-screenshot.png)
 
 ---
 
