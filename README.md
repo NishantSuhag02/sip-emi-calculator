@@ -55,9 +55,9 @@ N = Number of Monthly Installments
 
 FV = P × [ (1 + r)^n – 1 ] × (1 + r) / r  
 Where:  
-P = Monthly Investment \n  
-r = Monthly Return Rate \n  
-n = Total Months \n  
+P = Monthly Investment  
+r = Monthly Return Rate  
+n = Total Months  
 
 ---
 
